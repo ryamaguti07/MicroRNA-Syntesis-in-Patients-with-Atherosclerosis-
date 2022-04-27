@@ -21,9 +21,13 @@ oferecida no primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dr
 
 ## Metodologia Proposta
 > Base de dados: Dados Tabulares colidos no HC da Unicamp em parceria com o Laboratório Cardiovascular da FCM
+> 
 > Abordagens generativas: GANs e Flow, para gerar novos dados e gerar um dado futuro
+> 
 > Artigos de referência: Xu, Lei. Synthesizing tabular data using conditional GAN. Diss. Massachusetts Institute of Technology, 2020. + Yale, Andrew, et al. "Generation and evaluation of privacy preserving synthetic health data." Neurocomputing 416 (2020): 244-255. 
+> 
 > Ferramentas: Python e bibliotecas de Deep learning
+> 
 > Resultado esperado: Algoritmo generativo que consiga gerar novos pacientes e gerar uma evolução do paciente
 > Proposta de Avaliação: Kolmogorov-Smirnov, Chi-squared, Nearest Neighbor Adversarial Accuracy 
 
