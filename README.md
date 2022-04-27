@@ -20,7 +20,7 @@ oferecida no primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dr
 > 
 > 2 - ao receber um número n de anos, prever a evolução da doença nesse paciente.
 
-> VÍDEO
+> https://youtu.be/FzSP2NRuVAs
 
 ## Metodologia Proposta
 > Base de dados: Dados Tabulares colidos no HC da Unicamp em parceria com o Laboratório Cardiovascular da FCM
